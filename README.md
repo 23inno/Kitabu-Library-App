@@ -52,9 +52,9 @@ The repository coordinates related updates through Room transactions. Instrument
 
 Emulator screenshots of the Catalog, search, available-only filtering, reservation dialog, pending and active booking states, renewal and cancellation will be stored in `screenshots/`.
 
-## Assessment evidence
+## Project verification
 
-The final Canvas submission will also include a Word report, AI prompt/response evidence and retrospective Figma design plans, as applicable. AI assistance was used to draft and refine code, troubleshoot Gradle and Room, and prepare documentation. App behavior was tested in Android Studio.
+The Android application was tested in Android Studio, including reservation lifecycle actions and local database persistence.
 
 ## License
 
