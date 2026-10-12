@@ -69,9 +69,6 @@ I tested the app in Android Studio using an emulator. I checked that searching a
 
 The project includes Room database tests in `app/src/androidTest/`.
 
-## Screenshots
-
-Screenshots of the running app are included in the assignment report. They show the book catalog, search and filtering, reservation dialog, and the different reservation states.
 
 ## Project information
 
